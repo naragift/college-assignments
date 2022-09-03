@@ -77,7 +77,3 @@ show_image_info(image, 'Non-Quantized')
 show_image_info(quantized_image_level_4, '4 Level Quantization')
 show_image_info(quantized_image_level_50, '50 Level Quantization')
 show_image_info(quantized_image_level_100, '100 Level Quantization')
-
-"""### Kesimpulan
-> Dari gambar yang diperoleh, terlihat bahwa hasil image yang sudah dikuantisasi terlihat memiliki kontras yang cukup berbeda dibandingkan yang belum. Semakin tinggi level kuantisasinya, semakin banyak detail yang bisa ditangkap.
-"""
